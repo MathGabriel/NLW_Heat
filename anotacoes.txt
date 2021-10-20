@@ -7,7 +7,7 @@ yarn add express
 yarn add -D @types/express typescript ts-node-dev
 yarn tsc --init
 
-yarn funfar(dev)
+yarn rodar(dev)
 yarn add prisma -D 
 yarn prisma init
 

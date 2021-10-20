@@ -1,0 +1,19 @@
+             Comandos utilizados no inicio
+
+Abrir o Terminal no vsCode Ctrl+J
+
+
+yarn add express
+yarn add -D @types/express typescript ts-node-dev
+yarn tsc --init
+
+yarn funfar(dev)
+yarn add prisma -D 
+yarn prisma init
+
+chave client secrets github
+9cbf47488698a26b1571a68f720c2c0d74db6f57
+
+yarn add dotenv
+yarn add axios
+yarn add @types/axios -D

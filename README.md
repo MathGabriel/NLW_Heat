@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JSON Web Token](https://jwt.io/)
 - [Socket.IO](https://socket.io/)
 
-## 🚀 Como executar
+## 🎯 Como executar
 
 > Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
 - Clone o repositório e acesse a pasta;

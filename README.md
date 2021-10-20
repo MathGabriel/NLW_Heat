@@ -5,7 +5,7 @@
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-## ✨ Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
